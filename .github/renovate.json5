@@ -10,10 +10,4 @@
   "enabledManagers": [
     "npm",
   ],
-  "packageRules": [
-    {
-      "matchPaths": ["**/package.json"],
-      "ignoreDeps": [],
-    }
-  ]
 }
