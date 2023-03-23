@@ -1,0 +1,7 @@
+{
+  "name": "test-app",
+  "version": "1.0.0",
+  "dependencies": {
+    "autonumeric": "4.6.0"
+  }
+}
