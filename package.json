@@ -1,5 +1,10 @@
 {
   "name": "renovate-npm-workspace-repro",
   "version": "1.0.0",
-  "workspaces": ["apps/*"]
+  "workspaces": [
+    "apps/*"
+  ],
+  "dependencies": {
+    "autonumeric": "4.6.0"
+  }
 }
