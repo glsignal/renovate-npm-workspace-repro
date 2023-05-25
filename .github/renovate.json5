@@ -7,6 +7,9 @@
   "ignorePresets": [
     ":dependencyDashboard",
   ],
+  "npm": {
+    "bumpVersion": "patch",
+  },
   "enabledManagers": [
     "npm",
   ],
